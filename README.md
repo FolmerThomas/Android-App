@@ -17,7 +17,7 @@ Ce sont des grandes lignes, tu as carte blanche pour organiser ton écran comme 
 
 ## Consignes
 
-- La feature doit être développée de préférence en MVP (avec un contract)
+- La feature doit être développée de préférence en MVVM
 - Librairie à utiliser : Retrofit, coroutines ou RxJava suivant tes affinités - le tout en Kotlin
 - Tu peux ignorer tout ce qui est injection de dépendances, et créer les managers ou autres à la volée
 - Tu peux ignorer les problématiques de rotation de l'écran
@@ -33,4 +33,4 @@ Ce sont des grandes lignes, tu as carte blanche pour organiser ton écran comme 
 
 Have fun !
 
-Si tu as des questions, n'hésites pas à me les faire parvenir sur thomas.folmer@open-groupe.com
+Si tu as des questions, n'hésites pas à me les faire parvenir sur tfolmer@mondialrelay.fr
