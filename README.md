@@ -18,7 +18,7 @@ Ce sont des grandes lignes, tu as carte blanche pour organiser ton écran comme 
 ## Consignes
 
 - La feature doit être développée de préférence en MVVM
-- Librairie à utiliser : Retrofit, coroutines ou RxJava suivant tes affinités - le tout en Kotlin
+- Librairie à utiliser : Retrofit, coroutines/Flow ou RxJava suivant tes affinités - le tout en Kotlin
 - Tu peux ignorer tout ce qui est injection de dépendances, et créer les managers ou autres à la volée
 - Tu peux ignorer les problématiques de rotation de l'écran
 - Aucun stockage en local, on ne travaille qu'en mémoire
